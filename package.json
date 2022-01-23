@@ -1,13 +1,13 @@
 {
   "name": "npmTest",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test npm package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Learner",
   "license": "ISC",
   "dependencies": {
     "package-node": "^1.0.0",
